@@ -7,3 +7,6 @@ Plain Text can be in upper case or lower case but ciphertext always is in lower 
 
 Problem 2 (balancedparanthesis) : 
 Balanced parentheses means that each opening symbol has a corresponding closing symbol and the pairs of parentheses are properly nested.
+
+Problem 3 (graph.py) : 
+Perform different graph functions and operations using python and implement it.
